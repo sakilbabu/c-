@@ -1,0 +1,15 @@
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/helloWorld
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/ref/helloWorld.dll
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/media/mohammad/EC8415BE84158BE8/DotNetizen/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
